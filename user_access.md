@@ -1,5 +1,5 @@
 
-We distinguish between four different types of user access: 
+We distinguish between three different types of user access: 
 1) outside users: are able to clone and read all public repositories but do not see any private repositories; this is the default user access.
 2) team leaders:  team leaders lead a particular team within the UKRI TAS-Hub organisation, which means admin access to one or more repositories that they create. 
 3) team members: have pushing access for repositories created by the team and (usually) other repositories within the TAS-Hub organisation.
@@ -19,7 +19,7 @@ If there are any updates to the members needed, please send an email entitled "U
 
 # Team members
 
-Please contact your team leader to request access to the organisation, who can either send an updated member access request or add you manually if he/she has the user access to do so.
+Please contact your team leader to request access to the organisation. The team leader can either send an updated member access request or add you manually if he/she has the user access to do so.
 
 
 # Note on "Teams"
