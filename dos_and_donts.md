@@ -1,4 +1,4 @@
-# Dos and donts
+# Dos and don'ts
 
 Please make sure that all code and data
 
