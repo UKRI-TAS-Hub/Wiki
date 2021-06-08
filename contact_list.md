@@ -1,5 +1,3 @@
 # Contacts for member access
 
-d.m.bossens@soton.ac.uk
-
-m.divband-soorati@soton.ac.uk
+Please contact Dr. David Bossens (d.m.bossens@soton.ac.uk) or Dr. Mohammad Divband Soorati (m.divband-soorati@soton.ac.uk). 
